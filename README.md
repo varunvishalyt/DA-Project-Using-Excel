@@ -12,12 +12,15 @@ The Data which is provided to us is never fully clean hence we need to clean out
 ### Converting to Pivot Table
 To summarise the data or generate the insights that we want  to make we need to make a pivot table of the raw data provided 
 ![pivot-table1](/images/1.png)
+
 Here we have made a table which shows the Average Income vs Bike Bought? [Per Gender] So we have shown 3 values here.
 
 Now a Pivot Table showing, Count of Bikes Sold vs Commute Distance 
+
 ![pivot-table2](/images/2.png)
 
 Now a last pivot table showing Average Income vs Age Bracket
+
 ![pivot-table3](/images/3.png)
 
 ### Visualizing the said Pivot Table Data
